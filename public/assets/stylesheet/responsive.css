@@ -1,0 +1,1879 @@
+@media only screen and (max-width: 1919px) {
+    .flat-introduce .caption{
+      width: auto;
+      font-size: 36px;
+      white-space: nowrap;
+    }
+    .testimonial-flexslider .wrap-info .flex-control-nav {
+      display: none; 
+    }
+    .flat-introduce-style2 .section-about-right .content-introduce-inner{
+      padding-left: 0;
+    }
+}
+@media only screen and (max-width: 1440px) { 
+    .testimonial-style1 .wrap-quote .flex-control-nav{
+      text-orientation: unset;
+      writing-mode: unset;
+      right: 0;
+      top: unset;
+      bottom: unset;
+      margin-top: 30px;
+    }
+    .testimonial-flexslider .wrap-quote,
+    .testimonial-flexslider .wrap-info{
+      width: 50%;
+    }
+    .testimonial-style1 .wrap-quote .flex-control-nav li{
+      margin: 0 5px;
+    }
+    .testimonial-style1 .wrap-quote .client-info li{
+      margin-left: 0;
+    }
+    .flat-introduce-style2 .section-about-left{
+      width: 48%;
+      margin-left: 0;
+    }
+    .flat-introduce-style2 .section-about-right{
+      width: 48%;
+    }
+    .flat-introduce-style2 .section-about-right{
+      padding-left: 80px;
+    }
+    .flat-introduce-style2 .content-introduce .caption{
+      margin-bottom: 0;
+    }
+    .flat-event-bg .content-event-right .caption{
+      margin-left: -100%;
+    }
+    .flat-event-style2 .content-event-right .wrap-event .flat-button{
+      margin-top: 50px;
+    }
+    .flat-process-style3 .content-process .title-section .flat-title,
+    .flat-process-style4 .content-process .title-section .flat-title{
+      padding-right: 0;
+    }
+    .carousel-hobby-style5 .owl-carousel .owl-nav button.owl-prev{
+      left: 0;
+    }
+    .carousel-hobby-style5 .owl-carousel .owl-nav button.owl-next{
+      right: 0;
+    }
+    .edukin-introduce .bg-element1, .edukin-introduce .bg-element4{
+      padding: 50px 50px 50px 50px;
+    }
+    .flat-event-bg .partner .owl-carousel .owl-nav button.owl-prev:before,
+    .flat-event-bg .partner .owl-carousel .owl-nav button.owl-next:before{
+      font-size: 25px;
+    }
+    .flat-event-bg .partner .owl-carousel .owl-nav button.owl-prev{
+      right: -25.5%;
+    }
+    .flat-event-bg .partner .owl-carousel .owl-nav button.owl-next{
+      right: -32.5%;
+    }
+    .testimonial-style5{
+      padding: 130px 0 50px 0;
+    }
+    .latest-blog-style5{
+      padding: 90px 0 119px 0;
+    }
+    .background-wh{
+      margin-top: 0;
+    }
+}
+/* Media Queries
+-------------------------------------------------------------- */
+@media only screen and (max-width: 1366px) {
+    #footer #footer-widget .col-link .widget.widget-title, 
+    #footer #footer-widget .col-media .widget.widget-title{
+      margin-top: 0;
+      letter-spacing: 0;
+    }
+    .content-blog-single{
+      margin-top: 30px;
+    }
+    .latest-blog .owl-carousel .owl-dots{
+      top: 55px;
+    }
+    .latest-blog.cl-dots1 .owl-carousel .owl-dots button.owl-dot,
+    .latest-blog.cl-dots2 .owl-carousel .owl-dots button.owl-dot{
+      margin-bottom: 20px;
+    }
+    .testimonial-style2 .featured-post{
+      margin-left: 0px;
+    }
+    .flat-hobby .section-heading .caption{
+      padding: 0 150px;
+    }
+    .flat-hobby .imagebox-hobby img{
+      width: 100%;
+    }
+    .flat-hobby-style3 .title-section{
+      margin-left: 0;
+    }
+}
+@media only screen and (max-width: 1365px){
+    .bg-apply-type1 .apply-now{
+      padding: 58px 20px 50px 20px;
+    }
+    .flat-benefit .col-benefit-left{
+      width: 63%;
+    }
+    .flat-benefit .col-benefit-right{
+      width: 37%;
+    }
+
+    .testimonial-style1 .wrap-quote .client-info li .speech br{
+      display: none;
+    }  
+}
+@media only screen and (max-width: 1248px) {
+    .flat-event-style1 .images-list .images-list-1,
+    .flat-event-style1 .images-list .images-list-2 {
+      width: 50%;
+      float: left;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+   
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .testimonial-style5 .col-left .featured-post .stand-behind {
+      display: none;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .flat-event-style1 .col-left{
+      width: 100%;
+    }
+    .flat-event-style1 .col-right{
+      width: 100%;
+    }
+    .flat-event-style1 .images-list .images-list-2{
+      margin-top: 0;
+      padding-left: 0;
+    }
+    .flat-event-style1 .images-list .img-event{
+      padding: 0 15px;
+      display: inline-block;
+    }
+    .flat-event-bg .content-event-right .caption{
+      margin-left: -445px;
+    }
+    .flat-event-bg .partner{
+      padding-top: 20px;
+    }
+    .flat-event-bg .partner .owl-carousel .owl-nav{
+      display: none;
+    }
+    .flat-event-style1 .images-list .images-list-1 {
+        width: 66.67%;  
+        text-align: center;      
+    }
+    .flat-event-style1 .images-list .images-list-2 {
+        width: 33.33%;
+        text-align: center;
+    }
+    .flat-event-style1 .images-list .images-list-1 .img-event {
+        width: 50%;
+        float: left;
+    }
+    .online-courses-style5 .owl-carousel .owl-nav button.owl-prev:before,
+    .online-courses-style5 .owl-carousel .owl-nav button.owl-next:before {
+      display: none;
+    }
+}
+/* Smaller than standard 1200 */
+@media only screen and (max-width: 1199px) {
+    .col-footer{
+      max-width: 100%;
+      flex: 100%;
+    }
+    .col-company,
+    .col-link,
+    .col-course,
+    .col-media{
+      max-width: 25%;
+      flex: 25%;
+    }
+    #bottom ul.bottom-nav li{
+      padding: 0 14px;
+    }
+    .flat-introduce-style1 .videobox a.fancybox:before{
+      right: 0;
+    }
+    .latest-blog .post-bg .bg .position{
+      width: 12%;
+      padding: 20px 0;
+      padding-right: 0;
+      padding-left: 0;
+    }
+    .latest-blog .post-bg .bg .lt-sp4{
+      letter-spacing: unset;
+    }
+    .latest-blog .post-bg .bg .featured-post{
+      width: 84%;
+    }
+    .comments .text-wrap .full-name-wrap input{
+      margin-right: 22px;
+    }
+    .content-introduce-style1{
+      padding-top: 0;
+    }
+
+    .imagebox-courses-type1 .author-info .category{
+      top: 49%;
+    }
+    .imagebox-courses-type1 .author-info .name{
+      top: 58%;
+    }
+    .flat-introduce-style2{
+      padding: 100px 0 70px 0;
+    }
+    .flat-introduce-style2 .section-about-left{
+      width: 44%;
+    }
+    .flat-introduce-style2 .section-about-right{
+      width: 55%;
+    }
+    .flat-event-bg .content-event-rg .pd-event-rg{
+      margin: 0 40px;
+    }
+    .flat-event-bg .content-event-rg .caption{
+      font-size: 50px;
+    }
+    .flat-event-bg .content-event-rg .flat-counter .counter ul .content-counter{
+      margin-right: 30px;
+    }
+    .flat-benefit.style22 .iconbox-content-style22 p{
+      max-width: 500px;
+      padding-right: 0;
+      margin: 0 auto;
+    }
+    .transparent-head-style3 .wrap-transparent .pd-lf{
+      margin-top: 0;
+    }
+    .flat-hobby .section-heading .caption{
+      padding: 0 90px;
+    }
+    .flat-event-style3 .content-event-style3 .entry-info .entry-title{
+      margin-bottom: 10px !important;
+    }
+    .flat-event-style3 .content-event-style3 .btn-event-going{
+      margin-top: 38px;
+    }
+    .cta .cta-wrap{
+      padding: 55px 90px;
+    }
+    .flat-event-style3 .content-event-style3 .featured{
+      margin-right: 74px;
+    }
+    .flat-event-style3 .content-event-style3 .entry-info .entry-title{
+      padding-top: 0;
+    }
+    .content-event-style3 .content-event .entry-info p{
+      padding-right: 0;
+      margin-bottom: 15px;
+    }
+    .testimonial-style3 .wrap-info ul li.avatar:nth-of-type(1){
+      left: 6.9%;
+    }
+    .testimonial-style3 .wrap-info ul li.avatar:nth-of-type(3){
+      left: 5%;
+    }
+    .testimonial-style4 .wrap-info ul li.avatar:nth-of-type(1){
+      left: 6.9%;
+    }
+    .testimonial-style4 .wrap-info ul li.avatar:nth-of-type(3){
+      left: 5%;
+    }
+    #footer #footer-widget .logo-footer{
+      margin: 0 0 20px 0;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-lf .title{
+      font-size: 45px;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-lf .text{
+      margin: 20px 10px 30px 0;
+    }
+    .flat-introduce-style5 .content-introduce{
+      margin-left: 0;
+    }
+    .flat-introduce-style5 .videobox a.fancybox:before{
+      top: 46.7%;
+      left: 32.5%;
+    }
+    .flat-team .section-heading .caption{
+      padding: 0 130px
+    }
+    .courses-single-page .sidebar-right .flat-counter ul li{
+      margin-right: 10px;
+    }
+    .course-list .col-70{
+      width: 66%;
+      margin-left: 22px;
+    }
+    .content-course-list .flat-course .featured-post{
+      float: none;
+    }
+    .content-course-list .flat-course .featured-post .entry-image img{
+      width: 100%;
+    }
+    .course-single .content .author-price .author{
+      width: 39.2%;
+    }
+    .tab-title li{
+      width: 24.48%;
+    }
+}
+/* Smaller than standard 992 */
+@media only screen and (max-width: 991px) {
+    .mobile-button {
+      display: block;
+      position: absolute;
+      width: 26px;
+      height: 26px;
+      float: right;
+      top: 50%;
+      right: 15px;
+      background-color: none;
+    }
+    #mainnav-mobi ul li {
+      width: 100%;
+      padding: 0 0;
+    }
+    .header #mainnav-mobi ul li.nav-sing {
+      display: none;
+    }
+    .header #mainnav-mobi {
+        max-height: calc(100vh - 84px);
+        overflow-y: auto;
+    }
+    .header .site-header-inner #logo{
+        margin: 25px 0;
+    }
+    .header .site-header-inner #main-nav > ul > li{
+        padding-top: 28px;
+        padding-bottom: 29px;
+    }
+    .header-style1.header-sticky .site-header-inner:after{
+        display: none;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button{
+      margin-top: 20px;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-prev{
+      bottom: 0;
+      top: 100%;
+      left: 46%;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-next{
+      bottom: 0;
+      top: 100%;
+      right: 46%;
+    }
+    .flat-hobby .section-heading .caption{
+      padding: 0;
+    }
+    .cta-cr{
+      padding: 90px 0;
+    }
+    .site-content .post-blog{
+      margin-bottom: 40px;
+    }
+    .blog-bl{
+      padding-bottom: 50px;
+    }
+    .pd-pagination-blog{
+      padding: 40px 0 100px 0;
+    }
+    .blog-single .sidebar{
+      padding-top: 100px; 
+    }
+    .content-blog-single .content-blog-single-inner p{
+      padding-right: 0;
+      margin-bottom: 20px;
+    }
+    .content-blog-single .content-blog-single-inner blockquote{
+      margin: 35px 0;
+      padding-right: 0;
+    }
+    .content-blog-single .content-blog-single-inner .content-blog-single-wrap{
+      margin-bottom: 50px;
+    }
+    .related-posts{
+      padding-top: 70px;
+    }
+    .related-posts .title{
+      padding-bottom: 40px;
+    }
+    .blog-single{
+      padding-bottom: 50px;
+    }
+    .online-courses-style1{
+      margin-top: 0;
+      background-color: #f5f5f5;
+      padding: 100px 0;
+    }
+    .online-courses-style1 .title-section{
+      margin-bottom: 60px;
+    }
+    .online-courses .imagebox-courses-type1{
+      margin-bottom: 50px;
+    }
+    .pd-browse-course{
+      margin-top: 0;
+    }
+    .partner-clients-style1{
+      padding: 75px 0 100px 0;
+    }
+    .partner-clients-style1 .slide-client{
+      margin: 0 0 40px 0;
+      padding: 0;
+    }
+    .flat-services.style1{
+      margin-top: 0;
+      padding: 100px 0 50px 0;
+    }
+    .flat-services.style1 .services-content-box{
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .flat-introduce .videobox .elip-top,
+    .flat-introduce .videobox .elip-bottom{
+      display: none;
+    }
+    .flat-introduce-style1{
+      padding: 100px 0 80px 0;
+    }
+    .flat-introduce-style1 .videobox a.fancybox:before {
+      right: 45px;
+    }
+    .flat-introduce-style1 .col-left{
+      width: 100%;
+      margin-bottom: 50px;
+      text-align: center;
+    }
+    .flat-introduce-style1 .col-right{
+      width: 100%;
+      padding-left: 0;
+    }
+    .content-introduce-style1 .title-section{
+      margin-bottom: 30px;
+    }
+    .content-introduce .content-introduce-inner .content-list{
+      margin-top: 30px;
+    }
+    .flat-benefit .col-benefit-left{
+      width: 100%;
+      float: none;
+    }
+    .flat-benefit .col-benefit-right{
+      width: 55%;
+      float: none;
+      margin: 0 auto;
+      margin-top: 30px;
+      padding: 0;
+    }
+    .flat-benefit.style1{
+      padding: 100px 0 115px 0;
+    }
+    .iconbox-benefit-style1 .iconbox{
+      margin-bottom: 40px;
+    }
+    .flat-benefit.style1 .title-section{
+      margin-bottom: 50px;
+    }
+    .flat-event-style1{
+      padding: 90px 0 70px 0;
+    }
+    .flat-event-style1 .content-event-style1 .title-section{
+      margin-bottom: 40px;
+    }
+    .flat-event-style1 .content-event-style1 .content-event{
+      margin-bottom: 40px;
+    }
+    .flat-imagebox.imagebox-services.style1 .imagebox-content p{
+      max-width: 500px;
+      margin: 0 auto;
+      margin-bottom: 15px;
+    }
+    .iconbox-style1 .apply-admission{
+      transform: translateY(0);
+    }
+    .testimonial-style1 .wrap-quote .client-info li .speech{
+      margin: 37px 0 15px 0;
+    }
+    .testimonial-flexslider .wrap-quote .flex-control-nav{
+      position: relative;
+    }
+    .testimonial-flexslider .wrap-info{
+      display: none;
+    }
+    .testimonial-flexslider .wrap-quote{
+      width: 100%;
+      height: auto !important;
+    }
+    .latest-blog .flat-carousel-box{
+      padding-right: 0;
+    }
+    .latest-blog .owl-carousel .owl-dots{
+      text-orientation: unset;
+      writing-mode: unset;
+      top: unset;
+      right: 0;
+      left: 0;
+      margin-top: 40px;
+      text-align: center;
+    }
+    .latest-blog .post-bg .bg .featured-post img{
+      width: 100%;
+    }
+    .latest-blog-style1{
+      padding: 90px 0 180px 0;
+    }
+    .latest-blog-style1 .title-section{
+      margin-bottom: 40px;
+    }
+    .quick-link{
+      padding: 90px 0 90px 0;
+    }
+    .quick-link p{
+      margin-right: 0;
+    }
+    .wrap-link-right{
+      margin-top: 60px;
+    }
+    .quick-link .heading-rg{
+      margin: 0 0 30px 0;
+    }
+    .quick-link .btn-apply-link{
+      margin-top: 25px;
+    }
+    .footer-type1 .form-send-email{
+      padding-top: 100px;
+    }
+    .footer-type1 .form-send-email.style4 {
+        padding-top: 60px;
+    }
+    #footer #footer-widget .widget.widget-title{
+      margin-bottom: 25px;
+    }
+    #footer #footer-widget{
+      padding: 50px 0 30px 0;
+    }
+    .col-media{
+      padding-right: 0;
+    }
+    .bottom-type1 .bottom-bar-inner-wrap{
+      padding: 30px 0;
+    }
+    #bottom .bottom-bar-content{
+      margin-bottom: 10px;
+    }
+    #bottom .bottom-bar-content,
+    #bottom .bottom-bar-menu{
+      width: 100%;
+      display: inline-block;
+      text-align: center;
+    }
+    .campus {
+      margin-top: -80px;
+      padding-bottom: 100px;
+    }
+    .campus .apply-admission{
+      transform: translateY(0); 
+    }
+    .flat-event-bg .content-event-left{
+      width: 100%;
+    }
+    .flat-event-bg .content-event-right{
+      width: 100%;
+    }
+    .flat-benefit.style22{
+      padding: 90px 0 100px 0;
+    }
+    .flat-benefit-style2 {
+      margin-bottom: 60px;
+    }
+    .flat-benefit.style22 .title-section{
+      margin-top: 0;
+      margin-bottom: 50px;
+    }
+    .flat-benefit.style22 .iconbox-content-style22 h3{
+      margin: 25px 0 15px 0;
+    }
+    .flat-introduce-style2{
+      background: #fef9f0; 
+      padding: 100px 0 80px 0;
+      margin: 0;
+    }
+    .flat-introduce-style2 .section-about-left{
+      width: 100%;
+      text-align: center;
+      margin-bottom: 40px;
+      margin-left: 0;
+    }
+    .flat-introduce-style2 .section-about-left .videobox a.fancybox:before{
+      margin-right: 0;
+      top: unset;
+      bottom: 0;
+      right: 0;
+    }
+    .flat-introduce-style2 .section-about-left .videobox img{
+      width: 100%;
+      border-bottom-right-radius: 35px;
+    }
+    .flat-introduce-style2 .section-about-right{
+      width: 100%;
+      padding-left: 0;
+    }
+    .flat-introduce-style2 .content-introduce .caption{
+      display: none;
+    }
+    .flat-introduce .caption{
+      margin-bottom: 40px;
+    }
+    .flat-introduce-style2 .section-about-right .title-section{
+      margin-bottom: 30px;
+    }
+    .flat-services-style2{
+      padding: 100px 0 50px 0;
+    }
+    .flat-services-style2 .imagebox-content{
+      margin-bottom: 50px;
+    }
+    .flat-event-bg .content-event-right .caption{
+      display: none;
+    }
+    .flat-event-bg .content-event-right .wrap-event .featured{
+      margin-top: 40px;
+    }
+    .flat-event-bg .content-event-right .wrap-event .featured-wrap img{
+      width: 100%;
+    }
+    .flat-event-bg .content-event-right .wrap-event .featured .bg-333{
+      padding: 25px 30px;
+      left: 15px;
+      right: 15px;
+    }
+    .flat-event-style2 .content-event-right .wrap-event .flat-button{
+      margin-top: 50px;
+    }
+    .flat-event-style2{
+      padding: 0;
+    }
+    .flat-event-bg .partner{
+      position: relative;
+      padding-top: 0;
+    }
+    .flat-benefit.style22 ul{
+      text-align: center;
+    }
+    .testimonial-style2{
+      padding: 90px 0 95px 0;
+    }
+    .testimonial-style2 .wrap-testimonial .title-section{
+      margin-bottom: 30px;
+    }
+    .testimonial-style2 .featured-post{
+      display: none;
+    }
+    .testimonial-style2 .max-width100{
+      max-width: 100%;
+    }
+    .testimonial-style2 .wrap-testimonial{
+      padding: 0;
+    }
+    .testimonial-style2 .testimonial-content{
+      margin-bottom: 30px;
+    }
+    .flat-event .wrap-event .title-section{
+      margin-bottom: 40px;
+    }
+    .flat-event-bg .content-event{
+      margin-bottom: 35px;
+    }
+    .latest-blog-style2{
+      padding: 90px 0 100px 0;
+    }
+    .latest-blog-type2 .title-section{
+      margin-bottom: 40px;
+    }
+    .flat-event-bg .content-event-lf,
+    .flat-event-bg .content-event-rg{
+      width: 100%;
+      float: none;
+    }
+    .special-style2{
+      padding-top: 10px;
+      transform: translateY(40%);
+    }
+    .special-style2 .cl333 .bg{
+      padding: 20px 30px;
+    }
+    .transparent-head-style3{
+      padding-top: 220px;
+      height: 850px;
+    }
+    .transparent-head-style3 .wrap-transparent .pd-lf .text{
+      margin: 15px 0 35px 0;
+    }
+    .background-wh{
+      padding: 230px 0 70px 0;
+    }
+    .flat-hobby .carousel-hobby{
+      margin-top: 40px;
+    }
+    .online-courses-style3{
+      padding-top: 165px;
+    }
+    .online-courses-style3 .title-section{
+      margin-bottom: 50px;
+    }
+    .flat-event-style3 .title-section{
+      margin-bottom: 40px;
+    }
+    .flat-event-style3 .content-event-style3 .featured .data-box{
+      margin-right: -35px;
+    }
+    .flat-event-style3 .content-event-style3 .featured img{
+      width: 100%;
+    }
+    .flat-event-style3 .content-event-style3 .featured{
+      float: none;
+      margin-right: 0;
+      text-align: center;
+      margin-bottom: 35px;
+    }
+    .content-event-style3 .content-event .entry-info p{
+      padding-right: 0;
+    }
+    .flat-event-style3 .content-event-style3 .btn-event-going{
+      margin-top: 20px;
+    }
+    .flat-event-style3 .content-event-style3 .event-1{
+      margin-bottom: 60px;
+    }
+    .flat-process-style3{
+      background-image: url(../images/home3/17.png);
+    }
+    .flat-process-style3 .content-process .title-section{
+      margin-bottom: 30px;
+    }
+    .background-pink-style3{
+      padding: 80px 0 0 0;
+    }
+    .testimonial-style3 .wrap-quote .client-info li{
+      padding: 0;
+      text-align: center;
+    }
+    .testimonial-style3 .wrap-quote .flex-control-nav{
+      left: 0;
+      bottom: 0;
+      margin-top: 40px;
+      text-align: center;
+    }
+    .testimonial-style3{
+      margin-top: 0;
+      background-color: #f5f5f5;
+    }
+    .testimonial-style3 .flexslider{
+      background-color: #f5f5f5;
+    }
+    .testimonial-style3 .wrap-quote .client-info li .speech{
+      margin: 30px 0 15px 0;
+    }
+    .latest-blog-style3{
+      padding: 90px 0 0 0;
+    }
+    .cta{
+      margin-top: -90px;
+      transform: translateY(70%);
+    }
+    .cta .cta-wrap{
+      padding: 55px 90px 55px 90px;
+    }
+    .cta .cta-wrap .title-section{
+      margin-bottom: 20px;
+    }
+    .cta .cta-wrap .title-section,
+    .cta .cta-wrap ul{
+      justify-content: center;
+    }
+    .cta .cta-wrap .title-section{
+      display: block;
+      text-align: center;
+      width: 100%;
+    }
+    .cta .cta-wrap ul li{
+      margin: 0 10px;
+    }
+    .transparent-head-style4{
+      padding-top: 220px;
+      height: 850px;
+    }
+    .transparent-head-style4 .wrap-transparent .text{
+      margin: 15px 0 35px 0;
+    }
+    .partner-clients-style4{
+      margin-top: 0;
+    }
+    .partner-clients-style4 .iconbox-style4 .apply-admission{
+      transform: unset;
+    }
+    .partner-clients-style4 .slide-client{
+      margin: 0 0 40px 0;
+      padding: 0;
+    }
+    .flat-hobby-style4{
+      padding: 100px 0 170px 0;
+      margin: 0;
+    }
+    .flat-hobby-style4 .title-section{
+      margin-left: 0;
+    }
+    .flat-introduce-style4{
+      margin: 0;
+      padding: 100px 0 80px 0;
+    }
+    .flat-introduce-style4 .bg{
+      width: 100%;
+    }
+    .flat-introduce-style4 .col-left{
+      width: 100%;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .flat-introduce-style4 .content-introduce .caption{
+      display: none;
+    }
+    .flat-introduce-style4 .title-section{
+      margin-bottom: 30px;
+    }
+    .flat-introduce-style4 .col-right{
+      width: 100%;
+    }
+    .flat-introduce-style4 .content-introduce{
+      padding-left: 0;
+    }
+    .flat-introduce-style4 .videobox a.fancybox:before{
+      right: 45px;
+    }
+    .flat-introduce-style4 .caption{
+      margin-bottom: 0;
+    }
+    .online-courses-style4{
+      padding: 100px 0;
+    }
+    .online-courses-style4 .title-section{
+      margin-bottom: 60px;
+    }
+    .testimonial-style4 .wrap-quote .client-info li{
+      padding: 0;
+      text-align: center;
+    }
+    .testimonial-style4 .wrap-quote .client-info li .speech{
+      margin: 36px 0 16px 0;
+    }
+    .testimonial-style4 .wrap-quote .flex-control-nav{
+      left: 0;
+      bottom: 0;
+      margin-top: 40px;
+      text-align: center;
+    }
+    .flat-process-style4{
+      background-image: url(../images/home3/15.png);
+    }
+    .flat-process-style4 .content-process .title-section{
+      margin-bottom: 30px;
+    }
+    .flat-process {
+      padding: 90px 0 100px 0;
+    }
+    .flat-process .content-process p{
+      margin-bottom: 20px;
+    }
+    .flat-event-style4{
+      margin-top: 0;
+    }
+    .flat-event-style4 .content-event-right .wrap-event .flat-button{
+      transform: translate(0);
+      margin-top: 50px;
+    }
+    .latest-blog-style4{
+      padding: 90px 0 180px 0;
+    }
+    .latest-blog-style4 .title-section{
+      margin-bottom: 40px;
+    }
+    .transparent-head-style5{
+      height: 700px;
+      padding-top: 200px;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-lf{
+      width: 55%;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-rg{
+      width: 45%;
+      margin-top: 60px;
+    }
+    .online-courses-style5{
+      background-color: #f5f5f5;
+      padding: 90px 0 100px 0;
+    }
+    .flat-introduce-style5{
+      background-image: unset;
+      padding: 90px 0 100px 0;
+      background-color: #f5f5f5;
+    }
+    .flat-introduce-style5 .content-introduce .content-introduce-inner .content-list{
+      margin-top: 20px;
+    }
+    .partner-clients-style5{
+      transform: translateY(0);
+      padding-bottom: 30px;
+    }
+    .partner-clients-style5 .slide-client{
+      width: 100%;
+      margin-left: 0;
+    }
+    .online-courses-style5 .title-section{
+      margin-bottom: 35px;
+    }
+    .flat-benefit-style5{
+      padding: 90px 0 100px 0;
+    }
+    .flat-benefit-style5 .title-section{
+      margin-bottom: 50px;
+    }
+    .flat-benefit-style5 .iconbox{
+      margin-bottom: 40px;
+    }
+    .flat-introduce-style5 .videobox a.fancybox:before{
+      display: none;
+    }
+    .flat-introduce-style5 .content-introduce{
+      margin-left: 0;
+    }
+    .flat-event-style5 .content-event-right .flat-button{
+      transform: translateY(0);
+      margin-top: 40px;
+    }
+    .flat-hobby-style5{
+      padding: 90px 0 170px 0;
+    }
+    .testimonial-style5{
+      padding: 100px 0 90px 0;
+    }
+    .testimonial-style5 .col-left{
+      width: 100%;
+      margin-bottom: 50px;
+      text-align: center;
+    }
+    .testimonial-style5 .col-left .featured-post .stand-behind{
+      top: -60px;
+      left: 30px;
+    }
+    .testimonial-style5 .col-right{
+      width: 100%;
+      padding-left: 0;
+    }
+    .testimonial-style5 .col-right .title-section{
+      margin-bottom: 40px;
+    }
+    .testimonial-style5 .wrap-testimonial .client-info .speech{
+      margin: 10px 0 15px 0;
+    }
+    .testimonial-style5 .wrap-testimonial .client-info .name{
+      margin-bottom: 40px;
+    }
+    .latest-blog-style5 .title-section{
+      margin-bottom: 40px;
+    }
+    .latest-blog-style5{
+      padding: 90px 0 180px 0;
+    }
+    .flat-about{
+      margin: -30px 0 100px 0;
+    }
+    .flat-about .textbox-about{
+      margin-bottom: 50px;
+    }
+    .flat-about .textbox-content .about-introduce .btn-about{
+      margin-top: 30px;
+    }
+    .flat-about .iconbox-about{
+      float: none;
+    }
+    .iconbox-about .iconbox-about-wrap .list-1, 
+    .iconbox-about .iconbox-about-wrap .list-2{
+      float: unset;
+    }
+    .iconbox-about .iconbox-about-wrap .iconbox{
+      width: 150px;
+      float: left;
+      margin-right: 30px;
+      margin-bottom: 0;
+    }
+    .iconbox-about .iconbox-about-wrap .iconbox.iconbox-award:last-child{
+      margin-right: 0;
+    }
+    .edukin-introduce .bg-element1{
+      padding: 90px 50px 50px 50px;
+    }
+    .edukin-introduce .bg-element4{
+      padding: 50px 50px 85px 50px;
+    }
+    .edukin-introduce .element-col50{
+      width: 100%;
+    }
+    .edukin-introduce{
+      padding: 0 15px;
+    }
+    .iconbox-about .iconbox-about-wrap .list-2{
+      margin-top: 0;
+    }
+    .flat-team.mg-flat-team{
+      padding: 90px 0 100px 0;
+    }
+    .pd-list-team{
+      padding-top: 50px;
+    }
+    .flat-team .section-heading .caption{
+      padding: 0;
+    }
+    .course-list .col-30{
+      width: 100%;
+    }
+    .course-list .col-70{
+      width: 100%;
+      margin-left: 0;
+      margin-top: 70px;
+    }
+    .course-list .pagination{
+      padding: 50px 0 100px 0;
+    }
+    .course-list .thim-course-top{
+      text-align: left;
+      margin-bottom: 40px;
+    }
+    .course-list .flat-course .course-content p {
+      margin: 5px 0;
+    }
+    .flat-course .course-content .wrap-course-content{
+      padding: 10px 30px;
+    }
+    .flat-courses .course{
+      width: 50%;
+    }
+    .course-grid .flat-portfolio .flat-filter-isotype{
+      margin: 0 0 30px 0;
+      text-align: center;
+      padding: 0;
+    }
+    .course-grid .flat-portfolio .flat-filter-isotype,
+    .course-grid .flat-portfolio .search-course{
+      width: 100%;
+      display: inline-block;
+      vertical-align: unset;
+    }
+    .courses-single-page .sidebar-right{
+      margin-bottom: 100px;
+    }
+    .courses-single-page .sidebar-right .flat-counter ul li{
+      margin-right: 15px;
+    }
+    .related-course-single{
+      margin-top: 50px;
+    }
+    .courses-single-page .content-page-wrap .item-content .question-sg{
+      margin-bottom: 30px;
+    }
+    .courses-single-page .content-page-wrap .item-content .access-sg{
+      margin-bottom: 35px;
+    }
+    .courses-single-page .content-page-wrap .item-content .certificate-sg{
+      margin-bottom: 25px;
+    }
+    .courses-single-page .content-page-wrap .item-content .requirements-sg{
+      margin-bottom: 35px;
+    }
+    .courses-single-page .content-page-wrap .item-content .description-single{
+      margin-bottom: 40px;
+    }
+    .courses-single-page .flat-tabs{
+      margin-bottom: 100px;
+    }
+    .related-course-single .related-course-wrap .flat-course .featured-post img{
+      width: 100%;
+    }
+    .cta-cr .cta-content{
+      margin-right: 0;
+    }
+    .course-grid .pagination{
+      padding: 55px 0 100px 0;
+    }
+    .sidebar .w-content.news-block-content.news-block-content-cus.mCustomScrollbar._mCS_1 {
+      max-width: 100%;
+      height: 255px !important;
+    }
+    .sidebar .w-content.news-block-content.news-block-content-cus.mCustomScrollbar._mCS_1 ul li {
+      width: 50%;
+      float: left;
+    }
+    #footer form.form-send {
+      width: 100%;
+    }
+    .flat-video-style3 {
+      padding-top: 220px;
+    }
+    .flat-video-style3 .title-section {
+      margin-top: 0;
+    }
+    .course-grid .flat-portfolio{
+      margin-bottom: 100px;
+    }
+    .flat-services-style3{
+      padding: 50px 0 20px;
+    }
+}
+/* Tablet Landscape */
+ @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+}
+/* Tablet Portrait Size */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+}
+@media only screen and (max-width: 768px) {
+    .testimonial-flexslider .wrap-info,
+    .testimonial-flexslider .wrap-quote{
+      width: 100%;
+    }
+    .flat-benefit .col-benefit-right{
+      width: 80%;
+    }
+    .flat-introduce-style2 .section-about-right{
+      padding-right: 0;
+    }
+}
+/* All Mobile Sizes */
+@media only screen and (max-width: 767px) {
+    .imagebox-courses-type2,
+    .course-grid .flat-courses .course .flat-course,
+    .content-course-list .flat-course,
+    .courses-single-page .sidebar-right .widget{
+      margin-bottom: 40px;
+    }
+    .course-grid .flat-courses .course:last-of-type .flat-course,
+    .content-course-list .flat-course:last-of-type{
+      margin-bottom: 0;
+    }
+    .testimonial-style5 .col-left{
+      margin-top: 0;
+    }
+    .course-list .pagination{
+      padding: 80px 0 100px 0;
+    }
+    .col-company,
+    .col-link,
+    .col-course,
+    .col-media{
+      max-width: 50%;
+      flex: 50%;
+      margin-bottom: 30px;
+    }
+    #footer #footer-widget {
+      padding: 50px 0 10px 0;
+    }
+    #bottom ul.bottom-nav li{
+      padding: 0 10px;
+    }
+    .top-bar{
+      padding: 20px 0
+    }
+    .top-bar .information{
+      float: none;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+    .nav-sing{
+       text-align: center;
+       float: none;
+    }
+    .breadcrumbs-blog{
+      padding-top: 50px;
+    }
+    .content-blog-single{
+      margin-top: 20px;
+    }
+    .content-blog-single .social-blog-single,
+    .content-blog-single .content-blog-single-inner{
+      width: 100%;
+      float: none;
+    }
+    .content-blog-single .social-blog-single li{
+      display: inline-block;
+      margin-right: 30px;
+    }
+    .content-blog-single .content-blog-single-inner .pd-title-single{
+      padding-bottom: 30px;
+    }
+    .content-blog-single .content-blog-single-inner p{
+      margin-bottom: 15px;
+    }
+    .comments .text-wrap .full-name-wrap input{
+      width: 100%;
+      margin-bottom: 30px;
+    }
+    .comments .text-wrap .email-address-wrap input{
+      width: 100%;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-prev{
+      left: 44.5%;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-next{
+      right: 44.5%;
+    }
+    .flat-slider.style1 .rev_slider_wrapper #rev-slider1 ul li .sl-address a.sl-phone,
+    .flat-slider.style1 .rev_slider_wrapper #rev-slider1 ul li .sl-address a.sl-email{
+      display: block;
+    }
+    .blog-single .related-posts .featured-post img{
+      width: 100%;
+    }
+    .imagebox-courses-type1 .featured-post img{
+      width: 100%;
+    }
+    .flat-imagebox.imagebox-services.style1 .imagebox-content .text-one,
+    .flat-imagebox.imagebox-services.style1 .imagebox-content .text-two,
+    .flat-imagebox.imagebox-services.style1 .imagebox-content .text-three{
+      margin: 15px 0 10px 0;
+    }
+    .flat-imagebox.imagebox-services.style1 .imagebox-content p{
+      margin-bottom: 10px;
+    }
+    .flat-services.style1 .services-content-box{
+      margin-bottom: 35px;
+    }
+    .flat-introduce-style1 .col-left{
+      margin-bottom: 40px;
+    }
+    .content-introduce .content-introduce-inner .content-list ul li{
+      margin-bottom: 15px;
+    }
+    .flat-introduce-style1 .videobox a.fancybox:before{
+      right: 0;
+    }
+    .flat-event .content-event .entry-number{
+      display: none;
+    }
+    .flat-event-style1 .content-event-style1 .content-event .entry-info{
+      width: 100%;
+    }
+    .flat-event-style1 .content-event-style1 .content-event{
+      margin-bottom: 40px;
+    }
+    .campus{
+      margin-top: -40px;
+    }
+    .flat-benefit-style2{
+      margin-bottom: 40px;
+    }
+    .flat-benefit-style2 .iconbox-width50 .iconbox {
+      width: 100%;
+      margin-bottom: 40px;
+    }
+    .flat-benefit-style2 .iconbox-one,
+    .flat-benefit-style2 .iconbox-two,
+    .flat-benefit-style2 .iconbox-three,
+    .flat-benefit-style2 .iconbox-four{
+      padding: 0;
+    }
+    .flat-benefit-style2 .iconbox-one .iconbox-content h3,
+    .flat-benefit-style2 .iconbox-two .iconbox-content h3,
+    .flat-benefit-style2 .iconbox-three .iconbox-content h3,
+    .flat-benefit-style2 .iconbox-four .iconbox-content h3{
+      margin: 15px 0 8px 0;
+    }
+    .flat-services-style2{
+      padding: 100px 0 60px 0;
+    }
+    .flat-services-style2 .flat-imagebox .imagebox-content .text-one,
+    .flat-services-style2 .flat-imagebox .imagebox-content .text-two,
+    .flat-services-style2 .flat-imagebox .imagebox-content .text-three,
+    .flat-services-style2 .flat-imagebox .imagebox-content .text-four{
+      margin: 15px 0 10px 0;
+    }
+    .flat-services-style2 .imagebox-content{
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .flat-services-style2 .flat-imagebox.imagebox-services .imagebox-content p{
+      max-width: 500px;
+      margin: 0 auto;
+      margin-bottom: 10px;
+    }
+    .flat-benefit.style22 ul li{
+      margin-bottom: 40px;
+    }
+    .flat-benefit.style22 .iconbox-content-style22 h3{
+      margin: 20px 0 10px 0;
+    }
+    .testimonial-style2 .featured-post{
+      text-align: center;
+      margin-bottom: 60px;
+    }
+    .testimonial-style2 .wrap-testimonial{
+      padding: 0;
+    }
+    .testimonial-style2 .testimonial-content{
+      margin-top: 0;
+    }
+    .latest-blog-style2{
+      padding: 90px 0 60px 0;
+    }
+    .latest-blog-type2 .post{
+      margin-bottom: 40px;
+    }
+    .cta{
+      margin-top: -100px;
+    }
+    .special-style2{
+      padding: 100px 0;
+      transform: translateY(0);
+    }
+    .special-style2 .cl333{
+      width: 100%;
+      float: unset;
+      margin-bottom: 20px;
+    }
+    .special-style2 .cl333:last-of-type{
+      margin-bottom: 0;
+    }
+    .special-style2 .cl333 .bg.bd-left{
+      border-top-left-radius: unset;
+    }
+    .special-style2 .cl333 .bg.bd-right{
+      border-top-right-radius: unset;
+    }
+    .special-style2 .cl333 .bg{
+      padding: 25px 40px;
+    }
+    .transparent-head-style3{
+      height: 720px;
+    }
+    .transparent-head-style3 .wrap-transparent .pd-lf{
+      width: 100%;
+      float: none;
+      position: relative;
+      z-index: 9;
+      max-width: unset;
+    }
+    .transparent-head-style3 .wrap-transparent .pd-rg{
+      width: 100%;
+      opacity: 0.15;
+      float: none;
+      transform: translateY(-70%);
+    }
+    .online-courses-style3 .featured img{
+      width: 100%;
+    }
+    .flat-event-style3 .content-event-style3 .featured .data-box{
+      margin-right: 0;
+      top: 0;
+      border-top-right-radius: 31px;
+    }
+    .post-style2 .featured-post img{
+      width: 100%;
+    }
+    .flat-services-style3 .mg-imagebox1,
+    .flat-services-style3 .mg-imagebox2,
+    .flat-services-style3 .mg-imagebox3{
+      margin-top: 0;
+      margin-bottom: 40px;
+    }
+    .flat-services-style3 .flat-imagebox.mg-imagebox1 .imagebox-content h5,
+    .flat-services-style3 .flat-imagebox.mg-imagebox2 .imagebox-content h5,
+    .flat-services-style3 .flat-imagebox.mg-imagebox3 .imagebox-content h5{
+      margin: 15px 0 10px 0;
+    }
+    .background-wh{
+      margin-top: 0;
+      padding: 200px 0 70px 0;
+    }
+    .cta {
+      transform: translateY(80%);
+    }
+    .cta .cta-wrap{
+      padding: 40px 50px;
+    }
+    .transparent-head-style4{
+      height: 720px;
+    }
+    .transparent-head-style4 .wrap-transparent .title{
+      font-size: 50px;
+    }
+    .flat-introduce-style4 .videobox a.fancybox:before{
+      right: 0;
+    }
+    .transparent-head-style5{
+      padding-top: 160px;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-lf{
+      width: 100%;
+      float: none;
+      position: relative;
+      z-index: 9;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-rg{
+      width: 100%;
+      float: none;
+      transform: translateY(-75%);
+      margin-top: 0;
+      opacity: 0.15;
+    }
+    .transparent-head-style5 .videobox a.fancybox:before{
+      display: none;
+    }
+    .partner-clients-style5 .slide-client{
+      width: 100%;
+    }
+    .testimonial-style5 .col-left .featured-post .stand-behind{
+      display: none;
+    }
+    .iconbox-about .iconbox-about-wrap .list-2{
+      margin-left: 0;
+    }
+    .iconbox-about .iconbox-about-wrap .iconbox{
+      margin-bottom: 30px;
+    }
+    .content-course-list .flat-course .featured-post{
+      float: none;
+    }
+    .content-course-list .flat-course .featured-post img{
+      width: 100%
+    }
+    .flat-courses .course{
+      width: 100%;
+    }
+    .course-grid .flat-portfolio .flat-filter-isotype li{
+      margin-right: 10px;
+    }
+    .tab-title li {
+      width: 49.59%;
+      margin-bottom: 20px;
+    }
+    .course-single .content .author-price .author, 
+    .course-single .content .author-price .price-wrap{
+      display: inline-block;
+      vertical-align: unset;
+      width: 100%;
+    }
+    .course-single .content .author-price .author{
+      margin-bottom: 30px;
+    }
+    .cta-cr .cta-content{
+      margin-bottom: 50px;
+    }
+    .cta-cr .cta-information{
+      border-left: none;
+      padding: 0;
+    }
+    .cta-cr .cta-content h3{
+      margin: 10px 0 25px 0;
+    }
+    .cta-cr .cta-information .phone{
+      margin-bottom: 10px;
+    }
+    .cta-cr .cta-information{
+      margin-top: 10px;
+    }
+    .content-blog-single .content-blog-single-inner .title a{
+      font-size: 45px;
+      line-height: 58px;
+    }
+    .related-posts{
+      padding-top: 60px;
+    }
+    .sidebar .w-content.news-block-content.news-block-content-cus.mCustomScrollbar._mCS_1 ul li {
+      width: 100%;
+      float: none;
+    }
+    .footer-type2 .form-send-email {
+      padding-top: 100px;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-lf .text{
+      margin: 20px 0 30px 0;
+    }
+    .edukin-introduce .bg-element1{
+      padding: 90px 15px 50px 15px;
+    }
+    .edukin-introduce .bg-element4{
+      padding: 50px 15px 85px 15px;
+    }
+    .flat-services-style3{
+      padding: 50px 0 50px;
+    }
+}
+/* Mobile Landscape Size */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    
+}
+@media only screen and (max-width: 599px){
+    .flat-introduce-style2 .section-about-lf .videobox a.fancybox:before{
+      margin-right: 0;
+      right: 0;
+      top: 0;
+    }
+}
+@media only screen and (max-width: 533px){
+    .tab-title li {
+      width: 100%;
+    }
+}
+@media only screen and (max-width: 575px){
+    .iconbox-benefit-style1 .iconbox{
+      margin-bottom: 50px;
+    }
+    .iconbox-benefit .iconbox{
+      text-align: center;
+    }
+    .flat-services.style2 .cl33{
+      width: 100%;
+      padding: 0;
+    }
+    .flat-services.style2 .cl33 .flat-imagebox {
+      margin-bottom: 50px;
+      text-align: center;
+    }
+    .flat-event-bg .content-event-right .wrap-event .featured .bg-333 {
+      padding: 15px 10px;
+      left: 5px;
+      right: 5px;
+    }
+    .transparent-head-style3 .wrap-transparent .pd-rg{
+      display: none;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-prev{
+      left: 42%;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-next{
+      right: 42%;
+    } 
+    .cta {
+      margin-top: -152px;
+      transform: translateY(78%);
+    }
+    .cta .cta-wrap{
+      padding: 20px 30px;
+    }
+    .cta .cta-wrap .title-section .flat-title{
+      font-size: 30px;
+    }
+    .cta .cta-wrap ul{
+      display: block;
+      flex-grow: unset;
+    }
+    .cta .cta-wrap ul li{
+      margin: 0 0 15px 0;
+      display: block;
+    }
+    .cta .cta-wrap ul li:last-child{
+      margin-bottom: 0;
+    }
+    .section-heading .caption{
+      padding: 0 10px;
+    }
+    .transparent-head-style5 .wrap-transparent .pd-rg{
+      display: none;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+}
+@media only screen and (max-width: 600px){    
+    .flat-event-style1 .images-list .images-list-1 {
+        width: 100%;  
+        text-align: center;      
+    }
+    .flat-event-style1 .images-list .images-list-2 {
+        width: 100%;
+        text-align: center;
+    }
+    .flat-event-style1 .images-list .images-list-1 .img-event {
+        width: 50%;
+        float: left;
+    }
+}
+/* Mobile Portrait Size */
+@media only screen and (max-width: 480px) {
+    .quick-link .btn-apply-link ul {
+      text-align: center;
+    }
+    .wrap-link-right{
+      margin-top: 45px;
+    }
+    .quick-link .btn-apply-link ul li{
+      display: block;
+      margin-bottom: 20px;
+    }
+    .quick-link .btn-apply-link ul li a.btn-request{
+      margin-left: 0;
+    }
+    .latest-blog .owl-carousel .owl-dots{
+      display: none;
+    }
+    .latest-blog-style1{
+      padding: 90px 0 100px 0;
+    }
+    .transparent-head-style3{
+      padding-top: 180px;
+    }
+    .transparent-head-style4{
+      padding-top: 190px;
+    }
+    .latest-blog-style4{
+      padding: 90px 0 100px 0;
+    }
+    .transparent-head-style5 .wrap-transparent .btn-edu ul li{
+      display: block;
+    }
+    .transparent-head-style5 .wrap-transparent .btn-edu ul .bt-get{
+      margin-left: 0;
+    }
+    .transparent-head-style5 .wrap-transparent .btn-edu ul .bt-copy{
+      margin-bottom: 20px;
+    }
+    .latest-blog-style5{
+      padding: 90px 0 100px 0;
+    }
+    .partner-clients-style5{
+      transform: translateY(0);
+    }
+    .flat-event-style1 .images-list .images-list-1 .img-event {
+      width: auto;
+      float: none;
+      margin-bottom: 40px;
+    }
+}
+@media only screen and (max-width: 479px) {
+    .flat-benefit .col-benefit-right{
+      width: 100%;
+    }
+    .iconbox-benefit .iconbox{
+      margin-bottom: 40px;
+    }
+    .flat-benefit .apply-admission{
+      margin-top: 10px;
+    }
+    .flat-introduce .caption{
+      line-height: 50px;
+      font-size: 21px;
+      margin-bottom: 20px !important;
+    }
+    .transparent-head-style3 .wrap-transparent .title,
+    .transparent-head-style4 .wrap-transparent .title,
+    .transparent-head-style5 .wrap-transparent .title{
+      font-size: 50px;
+    }
+    .courses-single-page .course-single .videobox a.fancybox:before{
+      display: none;
+    }
+}
+@media only screen and (min-width: 400px) and (max-width: 480px) {
+   
+}
+@media only screen and (max-width: 400px) {
+    .top-bar .information li{
+      display: block;
+      padding-right: 0;
+    }
+    .latest-blog .post-bg .bg .position{
+      width: 12%;
+    }
+    .cta .cta-wrap .title-section .flat-title{
+      font-size: 25px;
+    }
+
+    .iconbox-about .iconbox-about-wrap .iconbox,
+    .iconbox-about .iconbox-about-wrap .iconbox.iconbox-award:last-child {
+      float: none;
+      margin: 0 auto;
+      margin-bottom: 30px;
+    }
+}
+@media only screen and (max-width: 399px) {
+    .iconbox-about .iconbox-about-wrap .list-1{
+      float: none;
+    }
+    .iconbox-about .iconbox-about-wrap .list-2{
+      margin-left: 0px;
+      float: none;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-prev{
+      left: 40%;
+    }
+    .carousel-hobby .owl-carousel .owl-nav button.owl-next{
+      right: 40%;
+    } 
+}
+@media only screen and (max-width: 380px) {
+    .latest-blog .post-bg .bg .position{
+      padding: 5px 0px;
+    }
+}
+@media only screen and (max-width: 499px) {
+}
+/* Mobile Portrait Size */
+@media only screen and (max-width: 479px) {
+    .certificate .certificate-wrap{
+      width: 100%;
+      margin-bottom: 30px;
+    }
+    .certificate .images-certificate{
+      width: 100%;
+      float: none;
+      text-align: center;
+    }
+    .site-content .post-blog .content-post{
+      padding: 15px;
+    }
+    .site-content .post-blog .content-post .post-meta{
+      margin-right: 20px;
+    }
+    .site-content .post-blog .content-post .post-meta .clendar-wrap{
+      padding: 15px;
+    }
+    .content-post-blog .content-post-inner .poster{
+      margin-bottom: 10px;
+    }
+    .post-meta .social{
+      display: none;
+    }
+}
+@media (max-width: 425px) {
+    .flat-event-style1 .images-list .images-list-1,
+    .flat-event-style1 .images-list .images-list-2{
+      float: none;
+    }
+    .flat-event-style1 .images-list .img-event{
+      padding: 0;
+      display: block;
+    }
+    .flat-event-style1 .images-list .img-event img{
+      width: 100%;
+    }
+    .flat-video-style3 {
+        padding-top: 160px;
+    }
+}
+@media (max-width: 400px) {
+    .flat-imagebox.imagebox-services.style1 .imagebox-content p{
+      padding: 0 20px;
+    }
+    .flat-event-bg .content-event-right .flat-counter .counter ul .content-counter {
+      width: 100%;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .flat-event-bg .content-event-right .flat-counter .counter ul .content-counter:last-child {
+      text-align: center;
+      margin-bottom: 0;
+    }
+}
+@media (max-width: 369px) {
+    .cta {
+      transform: translateY(86%);
+    }
+    .col-company,
+    .col-link,
+    .col-course,
+    .col-media{
+      max-width: 100%;
+      flex: 100%;
+    }
+}
+@media (max-width: 320px) { 
+    .sidebar .w-content.news-block-content.news-block-content-cus.mCustomScrollbar._mCS_1 {
+        height: 215px !important;
+    }
+
+    .transparent-head-style5 {
+      padding-top: 113px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

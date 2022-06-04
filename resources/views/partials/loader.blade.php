@@ -1,0 +1,3 @@
+<div id="loading-overlay">
+    <div class="loader"></div>
+</div>
